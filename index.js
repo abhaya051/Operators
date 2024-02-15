@@ -174,7 +174,7 @@
 // console.log(cod1 && cod2)
 // ------------------------------------->>>>>>>>>>>>
 
-// LOGICAL OR (Dono Mai Sai Koi Ek True It Give True )
+// LOGICAL OR (Dono Mai Sai Koi Ek True It Give True Giving Offer Example )
 // let a = 69;
 // let b = 69;
 
